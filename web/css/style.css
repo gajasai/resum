@@ -1,0 +1,9 @@
+body{
+            background-color: #9646e6b9
+        }
+        button{
+            border-width: 0px;
+            height: 15px;
+            width: 100;
+            radius: 10px
+        }
